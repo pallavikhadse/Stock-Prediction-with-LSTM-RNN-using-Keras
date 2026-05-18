@@ -4,4 +4,8 @@ Following two models with 1 year and 3 years dataset respectively were built and
 
 1. LSTM Model with 1 year of Stock data of Google, Amazon and Apple. Timestep of 30 days. Multivariate features - Open prices of Google, Amazon and Apple. Data splitted into 70%-30% Training and Testing respectively. Validation data of 10% of Training data considered.
 
-2. LSTM Model with 3 years of Stock data of Google, Amazon and Apple. Timestep of 60 days. Multivariate features - Open prices of Google, Amazon and Apple. Data splitted into 60%-40% Training and Testing respectively. Validation data of 10% of Training data considered.
+<img width="957" height="652" alt="image" src="https://github.com/user-attachments/assets/aeaf2ce8-f718-43d3-8284-70819f49e11a" />
+
+<img width="977" height="652" alt="image" src="https://github.com/user-attachments/assets/9c0d867e-7f7d-4eb6-9f23-693844d68d0f" />
+
+
