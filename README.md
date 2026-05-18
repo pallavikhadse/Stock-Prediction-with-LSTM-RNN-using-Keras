@@ -1,5 +1,11 @@
 # Stock-Prediction-with-LSTM-RNN-using-Keras
 
+<img width="976" height="661" alt="image" src="https://github.com/user-attachments/assets/8dd56e43-77c9-4911-81d1-0700672a2589" />
+
+<img width="968" height="650" alt="image" src="https://github.com/user-attachments/assets/2f17d2ea-0f65-4d90-a93f-a55e73a722d2" />
+
+<img width="973" height="660" alt="image" src="https://github.com/user-attachments/assets/1e82fd07-26cc-466d-b9d0-38c8a0ca409e" />
+
 Following two models MLP and Long-ShortTerm Memory with 1 year dataset respectively were built and their results were analyzed"
 
 1. MLP Model with 1 year of Stock data of Google, Amazon and Apple. Timestep of 30 days. Multivariate features - Open prices of Google, Amazon and Apple. Data splitted into 70%-30% Training and Testing respectively. Validation data of 10% of Training data considered.
