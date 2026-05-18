@@ -6,6 +6,7 @@ Following two models with 1 year and 3 years dataset respectively were built and
 
 <img width="957" height="652" alt="image" src="https://github.com/user-attachments/assets/aeaf2ce8-f718-43d3-8284-70819f49e11a" />
 
-<img width="977" height="652" alt="image" src="https://github.com/user-attachments/assets/9c0d867e-7f7d-4eb6-9f23-693844d68d0f" />
+<img width="942" height="653" alt="image" src="https://github.com/user-attachments/assets/1fb25401-1241-4399-a324-6910ff8f9c71" />
+
 
 
